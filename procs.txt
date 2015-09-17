@@ -1,0 +1,178 @@
+USER       PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root         1  0.0  0.1 182056  4992 ?        Ss   12:28   0:01 /sbin/init
+root         2  0.0  0.0      0     0 ?        S    12:28   0:00 [kthreadd]
+root         3  0.0  0.0      0     0 ?        S    12:28   0:03 [ksoftirqd/0]
+root         5  0.0  0.0      0     0 ?        S<   12:28   0:00 [kworker/0:0H]
+root         7  0.0  0.0      0     0 ?        S    12:28   0:12 [rcu_preempt]
+root         8  0.0  0.0      0     0 ?        S    12:28   0:00 [rcu_sched]
+root         9  0.0  0.0      0     0 ?        S    12:28   0:00 [rcu_bh]
+root        10  0.0  0.0      0     0 ?        S    12:28   0:00 [migration/0]
+root        11  0.0  0.0      0     0 ?        S    12:28   0:00 [watchdog/0]
+root        12  0.0  0.0      0     0 ?        S    12:28   0:00 [watchdog/1]
+root        13  0.0  0.0      0     0 ?        S    12:28   0:00 [migration/1]
+root        14  0.0  0.0      0     0 ?        S    12:28   0:02 [ksoftirqd/1]
+root        16  0.0  0.0      0     0 ?        S<   12:28   0:00 [kworker/1:0H]
+root        17  0.0  0.0      0     0 ?        S    12:28   0:00 [watchdog/2]
+root        18  0.0  0.0      0     0 ?        S    12:28   0:00 [migration/2]
+root        19  0.0  0.0      0     0 ?        S    12:28   0:02 [ksoftirqd/2]
+root        21  0.0  0.0      0     0 ?        S<   12:28   0:00 [kworker/2:0H]
+root        22  0.0  0.0      0     0 ?        S    12:28   0:00 [watchdog/3]
+root        23  0.0  0.0      0     0 ?        S    12:28   0:00 [migration/3]
+root        24  0.0  0.0      0     0 ?        S    12:28   0:02 [ksoftirqd/3]
+root        26  0.0  0.0      0     0 ?        S<   12:28   0:00 [kworker/3:0H]
+root        27  0.0  0.0      0     0 ?        S<   12:28   0:00 [khelper]
+root        28  0.0  0.0      0     0 ?        S    12:28   0:00 [kdevtmpfs]
+root        29  0.0  0.0      0     0 ?        S<   12:28   0:00 [netns]
+root        30  0.0  0.0      0     0 ?        S<   12:28   0:00 [perf]
+root        31  0.0  0.0      0     0 ?        S    12:28   0:00 [khungtaskd]
+root        32  0.0  0.0      0     0 ?        S<   12:28   0:00 [writeback]
+root        33  0.0  0.0      0     0 ?        SN   12:28   0:00 [ksmd]
+root        34  0.0  0.0      0     0 ?        SN   12:28   0:01 [khugepaged]
+root        35  0.0  0.0      0     0 ?        S<   12:28   0:00 [crypto]
+root        36  0.0  0.0      0     0 ?        S<   12:28   0:00 [kintegrityd]
+root        37  0.0  0.0      0     0 ?        S<   12:28   0:00 [bioset]
+root        38  0.0  0.0      0     0 ?        S<   12:28   0:00 [kblockd]
+root        39  0.0  0.0      0     0 ?        S<   12:28   0:00 [devfreq_wq]
+root        41  0.0  0.0      0     0 ?        S    12:28   0:00 [kswapd0]
+root        42  0.0  0.0      0     0 ?        S    12:28   0:00 [fsnotify_mark]
+root        48  0.0  0.0      0     0 ?        S<   12:28   0:00 [kthrotld]
+root        52  0.0  0.0      0     0 ?        S<   12:28   0:00 [ipv6_addrconf]
+root        53  0.0  0.0      0     0 ?        S    12:28   0:03 [kworker/1:1]
+root        54  0.0  0.0      0     0 ?        S<   12:28   0:00 [deferwq]
+root        91  0.0  0.0      0     0 ?        S    12:28   0:00 [irq/18-mmc0]
+root        92  0.0  0.0      0     0 ?        S<   12:28   0:00 [ata_sff]
+root        95  0.0  0.0      0     0 ?        S    12:28   0:00 [scsi_eh_0]
+root        96  0.0  0.0      0     0 ?        S<   12:28   0:00 [scsi_tmf_0]
+root        97  0.0  0.0      0     0 ?        S    12:28   0:00 [scsi_eh_1]
+root        98  0.0  0.0      0     0 ?        S<   12:28   0:00 [scsi_tmf_1]
+root        99  0.0  0.0      0     0 ?        S    12:28   0:00 [scsi_eh_2]
+root       100  0.0  0.0      0     0 ?        S<   12:28   0:00 [scsi_tmf_2]
+root       101  0.0  0.0      0     0 ?        S    12:28   0:00 [scsi_eh_3]
+root       102  0.0  0.0      0     0 ?        S<   12:28   0:00 [scsi_tmf_3]
+root       103  0.0  0.0      0     0 ?        S    12:28   0:00 [scsi_eh_4]
+root       104  0.0  0.0      0     0 ?        S<   12:28   0:00 [scsi_tmf_4]
+root       105  0.0  0.0      0     0 ?        S    12:28   0:00 [scsi_eh_5]
+root       106  0.0  0.0      0     0 ?        S<   12:28   0:00 [scsi_tmf_5]
+root       113  0.0  0.0      0     0 ?        S    12:28   0:00 [kworker/1:2]
+root       123  0.0  0.0      0     0 ?        S<   12:28   0:00 [kworker/0:1H]
+root       142  0.0  0.0      0     0 ?        S    12:28   0:00 [jbd2/sda2-8]
+root       143  0.0  0.0      0     0 ?        S<   12:28   0:00 [ext4-rsv-conver]
+root       149  0.0  0.0      0     0 ?        S<   12:28   0:00 [kworker/1:1H]
+root       161  0.0  0.0      0     0 ?        S<   12:29   0:00 [kworker/3:1H]
+root       162  0.0  0.0      0     0 ?        S<   12:29   0:00 [kworker/2:1H]
+root       174  0.0  0.3  55044 15708 ?        Ss   12:29   0:00 /usr/lib/systemd/systemd-journald
+root       204  0.0  0.1  36484  4708 ?        Ss   12:29   0:01 /usr/lib/systemd/systemd-udevd
+root       222  0.0  0.0      0     0 ?        S<   12:29   0:00 [acpi_thermal_pm]
+root       223  0.0  0.0      0     0 ?        S    12:29   0:00 [irq/31-mei_me]
+root       226  0.0  0.0      0     0 ?        S<   12:29   0:00 [cfg80211]
+root       246  0.3  0.0      0     0 ?        S    12:29   0:54 [irq/35-iwlwifi]
+root       247  0.0  0.0      0     0 ?        S<   12:29   0:00 [kpsmoused]
+root       277  0.0  0.0      0     0 ?        S<   12:29   0:00 [iwlwifi]
+root       355  0.0  0.0      0     0 ?        S<   12:29   0:00 [kvm-irqfd-clean]
+root       387  0.0  0.0      0     0 ?        S<   12:29   0:00 [kworker/u17:0]
+root       388  0.0  0.0      0     0 ?        S<   12:29   0:00 [hci0]
+root       389  0.0  0.0      0     0 ?        S<   12:29   0:00 [hci0]
+root       390  0.0  0.0      0     0 ?        S<   12:29   0:00 [kworker/u17:1]
+root       406  0.0  0.0      0     0 ?        S    12:29   0:00 [jbd2/sda1-8]
+root       407  0.0  0.0      0     0 ?        S<   12:29   0:00 [ext4-rsv-conver]
+root       410  0.0  0.0      0     0 ?        S    12:29   0:00 [jbd2/sda4-8]
+root       411  0.0  0.0      0     0 ?        S<   12:29   0:00 [ext4-rsv-conver]
+root       419  0.0  0.0  15396  2772 ?        Ss   12:29   0:00 /usr/lib/systemd/systemd-logind
+dbus       421  0.3  0.0  34928  3788 ?        Ss   12:29   0:44 /usr/bin/dbus-daemon --system --address=systemd: --nofork --nopidfile --systemd-activation
+root       424  0.0  0.3 156864 12020 ?        Ss   12:29   0:00 /usr/bin/slim -nodaemon
+root       425  0.0  0.0   8192  1608 tty1     Ss+  12:29   0:00 /sbin/agetty --noclear tty1 linux
+root       435  2.4  2.0 374228 81908 tty7     Ssl+ 12:29   5:39 /usr/lib/xorg-server/Xorg -nolisten tcp vt07 -auth /var/run/slim.auth
+troon      444  0.0  0.1  35860  4356 ?        Ss   12:29   0:00 /usr/lib/systemd/systemd --user
+troon      445  0.0  0.0  96928  1716 ?        S    12:29   0:00 (sd-pam)
+troon      448  0.0  0.0  13840  3104 ?        S    12:29   0:00 /bin/sh /etc/xdg/xfce4/xinitrc -- /etc/X11/xinit/xserverrc
+troon      496  0.0  0.0  18052  1828 ?        S    12:29   0:00 dbus-launch --sh-syntax --exit-with-session
+troon      497  0.0  0.0  34992  2820 ?        Ss   12:29   0:00 /usr/bin/dbus-daemon --fork --print-pid 6 --print-address 8 --session
+troon      511  0.0  0.3 431540 13052 ?        Sl   12:29   0:00 dunst
+troon      522  0.0  0.5 392296 22412 ?        Sl   12:29   0:04 xfce4-session
+polkitd    525  0.0  0.4 519012 16220 ?        Ssl  12:29   0:00 /usr/lib/polkit-1/polkitd --no-debug
+troon      533  0.0  0.1  35412  4316 ?        S    12:29   0:00 /usr/lib/xfce4/xfconf/xfconfd
+troon      537  0.0  0.0  13312   324 ?        Ss   12:29   0:00 /usr/bin/ssh-agent -s
+troon      539  0.0  0.0 165336   460 ?        Ss   12:29   0:00 /usr/bin/gpg-agent --sh --daemon --write-env-file /home/troon/.cache/gpg-agent-info
+troon      541  0.0  0.2 219436  8836 ?        Sl   12:29   0:00 /usr/lib/gvfs/gvfsd
+troon      545  0.0  0.1 366488  6776 ?        Sl   12:29   0:00 /usr/lib/gvfs/gvfsd-fuse /run/user/1000/gvfs -f -o big_writes
+troon      561  0.4  0.5 212764 22088 ?        S    12:29   1:04 xfwm4 --display :0.0 --sm-client-id 2bce1ce89-5734-45ef-8770-c0000da0bfd0
+troon      563  0.0  0.7 548524 29064 ?        Sl   12:29   0:01 Thunar --sm-client-id 2ee8ba8b0-b625-4c4f-8629-b055086b2ea8 --daemon
+troon      564  0.0  0.7 411144 28580 ?        Sl   12:29   0:12 xfce4-panel --display :0.0 --sm-client-id 2cfbb290b-957d-41a1-ae57-5400b9557bbd
+troon      568  0.0  0.2 309044 10396 ?        Sl   12:29   0:00 /usr/lib/gvfs/gvfs-udisks2-volume-monitor
+root       570  0.0  0.2 365100  9588 ?        Ssl  12:29   0:03 /usr/lib/udisks2/udisksd --no-debug
+troon      571  0.0  0.4 374288 16360 ?        Ssl  12:29   0:01 xfsettingsd --display :0.0 --sm-client-id 2122a26c3-69c6-43cc-8756-c72dbbf0387e
+troon      575  0.0  0.9 559960 39412 ?        Sl   12:29   0:07 xfdesktop --display :0.0 --sm-client-id 21a5531ca-904b-49ea-8262-d2a5dbdd7b85
+troon      595  0.0  0.2 375668  9392 ?        Sl   12:29   0:00 /usr/lib/gvfs/gvfsd-trash --spawner :1.4 /org/gtk/gvfs/exec_spaw/0
+troon      601  0.0  0.4 293920 17940 ?        Ssl  12:29   0:00 xfce4-power-manager --restart --sm-client-id 288c62f57-f227-43ec-a3f6-3b6ad57e56b7
+troon      603  0.0  1.0 443064 42584 ?        Sl   12:29   0:00 nm-applet
+troon      607  0.0  0.1  52380  4856 ?        S    12:29   0:05 xscreensaver -no-splash
+troon      608  0.0  0.6 322612 27684 ?        Sl   12:29   0:00 /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1
+troon      611  0.0  0.3 198920 14648 ?        S    12:29   0:00 /usr/lib/xfce4/panel/wrapper-1.0 /usr/lib/xfce4/panel/plugins/libsystray.so 6 18874395 systray Notification Area Area where notification icons appear
+troon      613  0.0  0.3 198608 13244 ?        Ss   12:29   0:00 xfce4-power-manager
+troon      615  0.7  2.3 935932 92252 ?        Sl   12:29   1:41 cairo-dock
+root       621  0.0  0.2 226288  8692 ?        Ssl  12:29   0:00 /usr/lib/upower/upowerd
+troon      687  0.0  0.1 261736  5636 ?        Sl   12:29   0:00 /usr/lib/at-spi2-core/at-spi-bus-launcher
+troon      699  0.0  0.0  34516  3340 ?        S    12:29   0:01 /usr/bin/dbus-daemon --config-file=/etc/at-spi2/accessibility.conf --nofork --print-address 3
+troon      703  0.0  0.1 123068  4788 ?        Sl   12:29   0:03 /usr/lib/at-spi2-core/at-spi2-registryd --use-gnome-session
+troon      723  0.0  0.1 303948  7300 ?        Sl   12:29   0:00 /usr/lib/gvfs/gvfsd-computer --spawner :1.4 /org/gtk/gvfs/exec_spaw/1
+troon      772  0.8  0.0  22516  3664 ?        Ss   12:30   1:58 tmux -2 -f /usr/share/byobu/profiles/tmuxrc new-session -n - /usr/bin/byobu-shell
+troon      788  0.0  0.1  37352  5904 pts/2    Ss+  12:30   0:00 /bin/zsh
+troon     1045  0.0  0.1  37368  5768 pts/1    Ss   12:30   0:00 /bin/zsh
+root      1329  0.0  0.1  70284  5200 pts/1    S    12:30   0:00 sudo su -
+root      1352  0.0  0.0  43516  3108 pts/1    S    12:30   0:00 su -
+root      1353  0.0  0.1  17140  4840 pts/1    S    12:30   0:00 -bash
+troon     1769  0.0  0.1 176220  4520 ?        Sl   12:31   0:00 /usr/lib/dconf/dconf-service
+root      4383  0.6  0.3 192160 13984 ?        S    12:35   1:26 /usr/bin/python2 -O /usr/share/wicd/daemon/wicd-daemon.py
+root      4402  0.1  0.4 114200 16336 ?        S    12:35   0:15 /usr/bin/python2 -O /usr/share/wicd/daemon/monitor.py
+root      4668  0.4  0.6 143928 25336 pts/1    S+   12:36   0:56 /usr/bin/python2 -O /usr/share/wicd/curses/wicd-curses.py
+root      4904  0.0  0.0  31104  3312 ?        Ss   12:36   0:00 wpa_supplicant -B -i wlo1 -c /var/lib/wicd/configurations/7073cbbb63ce -Dwext
+root      5059  0.0  0.0   4504  1820 ?        Ss   12:36   0:00 /usr/bin/dhcpcd --noipv4ll wlo1
+root      6187  0.0  0.0      0     0 ?        S    15:06   0:00 [kworker/0:1]
+root      6578  0.0  0.0      0     0 ?        S    15:06   0:00 [kworker/3:0]
+troon     6731  0.1  1.2 1230808 47904 ?       Sl   15:07   0:04 /usr/bin/nautilus
+troon     6825  0.0  0.6 304020 25568 ?        Sl   15:08   0:00 xfce4-display-settings
+troon     6874  0.0  1.9 1097844 77876 ?       Sl   15:09   0:03 /usr/lib/virtualbox/VirtualBox
+troon     6890  0.0  0.1  43632  4824 ?        S    15:09   0:00 /usr/lib/GConf/gconfd-2
+troon     6895  0.0  0.2 154172  9244 ?        S    15:09   0:00 /usr/lib/virtualbox/VBoxXPCOMIPCD
+troon     6901  0.0  0.4 524820 17912 ?        Sl   15:09   0:01 /usr/lib/virtualbox/VBoxSVC --auto-shutdown
+troon     6951  0.1  0.5 438100 23656 ?        Sl   15:09   0:08 /usr/bin/xfce4-terminal
+troon     6955  0.0  0.0   8376  1540 ?        S    15:09   0:00 gnome-pty-helper
+troon     6956  0.0  0.1  37296  5824 pts/0    Ss   15:09   0:00 zsh
+troon     7041  0.0  0.0  14076  3444 pts/0    S+   15:09   0:00 /bin/sh -e /usr/bin/byobu-select-session
+troon     7077  0.0  0.0  19776  2824 pts/0    S+   15:09   0:00  -2 attach -t 1
+troon     7156  0.0  0.1  37352  5792 pts/4    Ss   15:09   0:00 /bin/zsh
+root      7332  0.0  0.1  70284  5188 pts/4    S    15:09   0:00 sudo -i
+root      7337  0.0  0.1  17140  4852 pts/4    S+   15:09   0:00 -bash
+root      7399  0.0  0.0      0     0 ?        S<   15:09   0:00 [iprt-VBoxWQueue]
+root      7403  0.0  0.0      0     0 ?        S    15:09   0:00 [iprt-VBoxTscThr]
+troon     9610  0.0  0.1  40284  6808 pts/3    Ss   12:42   0:02 /bin/zsh
+root     13654  0.0  0.0      0     0 ?        S    16:10   0:00 [kworker/u16:3]
+troon    15774  0.0  0.0  13312   320 ?        Ss   12:51   0:00 ssh-agent -s
+root     15777  0.0  0.0      0     0 ?        S    16:13   0:00 [kworker/2:2]
+root     16254  0.0  0.0      0     0 ?        S    14:31   0:00 [kworker/3:2]
+troon    16403  1.4  4.2 892044 168756 ?       Sl   16:14   0:08 /usr/lib/chromium/chromium
+troon    16405  0.0  0.0   6360   816 ?        S    16:14   0:00 /usr/lib/chromium/chrome-sandbox /usr/lib/chromium/chromium --type=zygote
+troon    16406  0.0  1.0 459488 39680 ?        S    16:14   0:00 /usr/lib/chromium/chromium --type=zygote
+troon    16408  0.0  0.0   6360   800 ?        S    16:14   0:00 /usr/lib/chromium/chrome-sandbox /usr/lib/chromium/nacl_helper
+troon    16409  0.0  0.2 177936  9984 ?        S    16:14   0:00 /usr/lib/chromium/nacl_helper
+troon    16411  0.0  0.3 467684 13360 ?        S    16:14   0:00 /usr/lib/chromium/chromium --type=zygote
+troon    16443  0.3  2.2 548780 89468 ?        Sl   16:14   0:02 /usr/lib/chromium/chromium --type=gpu-process --channel=16403.0.527258137 --v8-natives-passed-by-fd --v8-snapshot-passed-by-fd --supports-dual-gpus=false --gpu-driver-bug-workarounds=2,15,45,57 --disable-accelerated-video-decode --gpu-vendor-id=0x8086 --gpu-device-id=0x0126 --gpu-driver-vendor --gpu-driver-version --v8-natives-passed-by-fd --v8-snapshot-passed-by-fd
+troon    16459  0.0  0.4 482484 16728 ?        S    16:14   0:00 /usr/lib/chromium/chromium --type=gpu-broker
+troon    16481  0.0  1.6 840940 66760 ?        Sl   16:14   0:00 /usr/lib/chromium/chromium --type=renderer --enable-deferred-image-decoding --lang=en-US --v8-natives-passed-by-fd --v8-snapshot-passed-by-fd --extension-process --enable-webrtc-hw-h264-encoding --enable-offline-auto-reload --enable-offline-auto-reload-visible-only --enable-pinch-virtual-viewport --enable-delegated-renderer --num-raster-threads=2 --gpu-rasterization-msaa-sample-count=8 --use-image-texture-target=3553 --disable-accelerated-video-decode --channel=16403.2.1354843307
+troon    16489  0.0  1.9 862892 76500 ?        Sl   16:14   0:00 /usr/lib/chromium/chromium --type=renderer --enable-deferred-image-decoding --lang=en-US --v8-natives-passed-by-fd --v8-snapshot-passed-by-fd --extension-process --enable-webrtc-hw-h264-encoding --enable-offline-auto-reload --enable-offline-auto-reload-visible-only --enable-pinch-virtual-viewport --enable-delegated-renderer --num-raster-threads=2 --gpu-rasterization-msaa-sample-count=8 --use-image-texture-target=3553 --disable-accelerated-video-decode --channel=16403.3.538287614
+troon    16494  0.0  1.7 862456 69516 ?        Sl   16:14   0:00 /usr/lib/chromium/chromium --type=renderer --enable-deferred-image-decoding --lang=en-US --v8-natives-passed-by-fd --v8-snapshot-passed-by-fd --extension-process --enable-webrtc-hw-h264-encoding --enable-offline-auto-reload --enable-offline-auto-reload-visible-only --enable-pinch-virtual-viewport --enable-delegated-renderer --num-raster-threads=2 --gpu-rasterization-msaa-sample-count=8 --use-image-texture-target=3553 --disable-accelerated-video-decode --channel=16403.4.1243597598
+troon    16500  0.0  1.7 850160 68600 ?        Sl   16:14   0:00 /usr/lib/chromium/chromium --type=renderer --enable-deferred-image-decoding --lang=en-US --v8-natives-passed-by-fd --v8-snapshot-passed-by-fd --extension-process --enable-webrtc-hw-h264-encoding --enable-offline-auto-reload --enable-offline-auto-reload-visible-only --enable-pinch-virtual-viewport --enable-delegated-renderer --num-raster-threads=2 --gpu-rasterization-msaa-sample-count=8 --use-image-texture-target=3553 --disable-accelerated-video-decode --channel=16403.5.1677686658
+troon    16501  0.0  1.9 777608 76044 ?        Sl   15:24   0:02 evince /home/troon/Desktop/Oshwal-Linux/PDF/0. Introduction-to-Git.pdf
+troon    16506  0.0  0.0 102320  3756 ?        Sl   15:24   0:00 /usr/lib/evince/evinced
+troon    16519  0.0  1.7 858356 69836 ?        Sl   16:14   0:00 /usr/lib/chromium/chromium --type=renderer --enable-deferred-image-decoding --lang=en-US --v8-natives-passed-by-fd --v8-snapshot-passed-by-fd --extension-process --enable-webrtc-hw-h264-encoding --enable-offline-auto-reload --enable-offline-auto-reload-visible-only --enable-pinch-virtual-viewport --enable-delegated-renderer --num-raster-threads=2 --gpu-rasterization-msaa-sample-count=8 --use-image-texture-target=3553 --disable-accelerated-video-decode --channel=16403.6.443850173
+troon    16524  0.0  1.6 840940 66476 ?        Sl   16:14   0:00 /usr/lib/chromium/chromium --type=renderer --enable-deferred-image-decoding --lang=en-US --v8-natives-passed-by-fd --v8-snapshot-passed-by-fd --extension-process --enable-webrtc-hw-h264-encoding --enable-offline-auto-reload --enable-offline-auto-reload-visible-only --enable-pinch-virtual-viewport --enable-delegated-renderer --num-raster-threads=2 --gpu-rasterization-msaa-sample-count=8 --use-image-texture-target=3553 --disable-accelerated-video-decode --channel=16403.7.1979873400
+troon    16533  0.0  1.6 857332 67048 ?        Sl   16:14   0:00 /usr/lib/chromium/chromium --type=renderer --enable-deferred-image-decoding --lang=en-US --v8-natives-passed-by-fd --v8-snapshot-passed-by-fd --extension-process --enable-webrtc-hw-h264-encoding --enable-offline-auto-reload --enable-offline-auto-reload-visible-only --enable-pinch-virtual-viewport --enable-delegated-renderer --num-raster-threads=2 --gpu-rasterization-msaa-sample-count=8 --use-image-texture-target=3553 --disable-accelerated-video-decode --channel=16403.8.464164053
+troon    16549  0.0  1.9 868856 75248 ?        Sl   16:14   0:00 /usr/lib/chromium/chromium --type=renderer --enable-deferred-image-decoding --lang=en-US --v8-natives-passed-by-fd --v8-snapshot-passed-by-fd --extension-process --enable-webrtc-hw-h264-encoding --enable-offline-auto-reload --enable-offline-auto-reload-visible-only --enable-pinch-virtual-viewport --enable-delegated-renderer --num-raster-threads=2 --gpu-rasterization-msaa-sample-count=8 --use-image-texture-target=3553 --disable-accelerated-video-decode --channel=16403.9.433985879
+troon    16569  0.0  1.6 857332 67080 ?        Sl   16:14   0:00 /usr/lib/chromium/chromium --type=renderer --enable-deferred-image-decoding --lang=en-US --v8-natives-passed-by-fd --v8-snapshot-passed-by-fd --extension-process --enable-webrtc-hw-h264-encoding --enable-offline-auto-reload --enable-offline-auto-reload-visible-only --enable-pinch-virtual-viewport --enable-delegated-renderer --num-raster-threads=2 --gpu-rasterization-msaa-sample-count=8 --use-image-texture-target=3553 --disable-accelerated-video-decode --channel=16403.11.671691492
+root     16625  0.0  0.0      0     0 ?        S    15:24   0:00 [kworker/2:1]
+troon    16661  1.8  3.2 926488 129260 ?       Sl   16:14   0:10 /usr/lib/chromium/chromium --type=renderer --enable-deferred-image-decoding --lang=en-US --v8-natives-passed-by-fd --v8-snapshot-passed-by-fd --enable-offline-auto-reload --enable-offline-auto-reload-visible-only --enable-pinch-virtual-viewport --enable-delegated-renderer --num-raster-threads=2 --gpu-rasterization-msaa-sample-count=8 --use-image-texture-target=3553 --disable-accelerated-video-decode --channel=16403.13.1425446657
+root     17285  0.0  0.0      0     0 ?        S    16:15   0:00 [kworker/u16:0]
+root     17539  0.0  0.0      0     0 ?        S    16:16   0:00 [kworker/u16:2]
+troon    22936  0.0  0.0  36696  3324 pts/3    R+   16:24   0:00 ps aux
+troon    25463  0.0  0.2 144812  8712 ?        Sl   13:06   0:00 /usr/lib/gvfs/gvfsd-metadata
+root     30148  0.0  0.0      0     0 ?        S    15:46   0:00 [kworker/0:0]
